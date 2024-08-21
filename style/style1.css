@@ -1,0 +1,54 @@
+*{
+    border: 0px;
+    padding: 0px;
+    margin: 0px;;
+    
+}
+h1{
+    color: rgb(255, 255, 255);
+}
+.img{
+    margin: 100px -400px 50px 500px;
+}
+body {
+    background-image: url("Screenshot 2024-08-21 170546.png");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+form{
+    background-color: rgba(0, 0, 0, 0.419);
+    padding: 20px;
+    width: 40vh;
+    color: aliceblue;
+}
+.Text{
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: -5px;
+}
+form .Login  .input input{
+        margin: 5px 20px;
+        padding: 5px 10px;
+        width: 30vh;
+        height: 10px;
+}
+form .Login .input label{
+    margin: 40px;
+}
+ .buttonLogin button{
+
+    width:70px ;
+    margin:10px 70px 50px ;
+    padding: 5px;
+    background-color: rgba(251, 251, 251, 0.374);
+    color: rgb(255, 255, 255);
+}
+.socialMedia nav #f,#g{
+    margin: 10px 70px;
+    color: rgb(47, 0, 255);
+}
+
